@@ -1,0 +1,27 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "tags": {
+      "feature": {
+        "names": [
+          "O",
+          "B-EVENT",
+          "B-FEAT",
+          "B-ITEM"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
