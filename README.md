@@ -4,4 +4,4 @@
 
 Разработана модель с метрикой f1 = 94%
 
-Использованные технологии: spicy, GRU, LSTM, BERT, Pytorch 
+Использованные технологии: Spacy, GRU, LSTM, BERT, Pytorch 
